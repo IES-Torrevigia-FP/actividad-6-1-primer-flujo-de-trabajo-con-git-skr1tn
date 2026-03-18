@@ -1,4 +1,5 @@
-f840985 (HEAD -> main) Añade archivo de notas inicial sobre Git
+885cd97 (HEAD -> main) Completa conceptos básicos de flujo en Git
+f840985 Añade archivo de notas inicial sobre Git
 c00a864 (origin/main, origin/HEAD) cp1-init-rama-main.png
 ac25ce3 cp1-init-rama-main
 7676d1e cp1-init-rama-main
