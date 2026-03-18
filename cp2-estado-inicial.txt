@@ -1,0 +1,10 @@
+En la rama main
+Tu rama está actualizada con 'origin/main'.
+
+Cambios a ser confirmados:
+  (usa "git restore --staged <archivo>..." para sacar del área de stage)
+	nuevos archivos: notas-git.md
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	actividad-6-1-flujo-git/
