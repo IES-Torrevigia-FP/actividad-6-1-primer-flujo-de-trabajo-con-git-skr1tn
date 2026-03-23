@@ -1,5 +1,7 @@
 Directorio de trabajo: Son los archivos de tu proyecto en tu computadora, donde haces cambios.
+
 Zona de staging: Es donde decides qué cambios quieres incluir en el siguiente commit, usando git add.
+
 Historial de commits: Es el registro de todos los cambios confirmados (commits) en el repositorio.
 
 Error común:
