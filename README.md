@@ -8,3 +8,5 @@ Completa los ejercicios en `actividad_6_001.md`.
 
 ## Entrega
 Sigue las instrucciones de GitHub Classroom para esta actividad.
+
+10
